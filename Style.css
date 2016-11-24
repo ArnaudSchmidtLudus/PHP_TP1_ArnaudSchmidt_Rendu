@@ -1,0 +1,16 @@
+
+/* police utilisée */
+@import url(https://fonts.googleapis.com/css?family=Delius+Unicase);
+
+body
+{
+	background: url("backforum.jpg");
+	font-family: 'Delius Unicase', cursive;
+	color: white;
+	text-align: center;
+}
+
+header
+{
+	margin-bottom: 100px;
+}
